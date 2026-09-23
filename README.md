@@ -2,13 +2,13 @@
 
 Java
 
-A graph-based project developed as part of my Data Structures & Algorithms coursework.
-
-## Overview
+A two-person project developed as part of my Data Structures & Algorithms coursework.
 
 The project represents connections between locations using a weighted adjacency matrix.
 
-It includes functionality for searching the graph, displaying connected locations, finding the closest connected location and inserting new weighted connections.
+## Overview
+
+The project includes functionality for searching the graph, displaying connected locations, finding the closest connected location and inserting new weighted connections.
 
 ## Features
 
